@@ -19,7 +19,7 @@ repo_dirs:
   /opt/wwc/analytics-experiments: MITx/analytics-experiments
   /opt/wwc/grading-controller: edx/grading-controller
   /opt/wwc/ease: edx/ease
-  /opt/wwc/edx-platform: edx/edx-platform
+  /opt/wwc/edx-platform: CEIT-UQ/edx-platform
   /opt/wwc/data/cs50: MITx/cs50
   /opt/wwc/data/edx4edx: MITx/edx4edx
   /opt/wwc/data/700x: MITx/700x
@@ -28,7 +28,7 @@ repo_dirs:
   /opt/wwc/certificates: edx/certificates
   /opt/wwc/drupal: MITx/drupal
   /opt/wwc/latex2edx: edx/latex2edx_xserver
-  /opt/wwc/worker: edx/edx-platform
+  /opt/wwc/worker: CEIT-UQ/edx-platform
   /opt/sysadmin: MITx/sysadmin
 # {pre,post}_checkout_regex:
 #      What actions to take before and after a repo checkout.
